@@ -124,4 +124,3 @@ python -m src.make_report_plots --summary results/summary.csv --out-dir results/
 * `results/figures/by_set_for_report.csv`
 * `results/figures/worst_10.csv`
 * `results/figures/best_10.csv`
-# cvrp_metaheuristic
